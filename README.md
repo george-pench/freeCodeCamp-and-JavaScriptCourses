@@ -18,3 +18,15 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine" rel="nofollow">Learn CSS Grid by Building a Magazine</a>
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin" rel="nofollow">Learn CSS Transforms by Building a Penguin</a>
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel" rel="nofollow">Learn CSS Animations by Building a Ferris Wheel</a>
+
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" rel="nofollow">2. JavaScript Algorithms and Data Structures Certification</a>
+
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript" rel="nofollow">Basic JavaScript</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6" rel="nofollow">ES6</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions" rel="nofollow">Regular Expressions</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging" rel="nofollow">Debugging</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures" rel="nofollow">Basic Data Structures</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting" rel="nofollow">Basic Algorithm Scripting</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming" rel="nofollow">Object-Oriented Programming</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming" rel="nofollow">Functional Programming</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting" rel="nofollow">Intermediate Algorithm Scripting</a>
