@@ -20,7 +20,7 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel" rel="nofollow">Learn CSS Animations by Building a Ferris Wheel</a>
 
 <h3>Certificate of Completion</h3>
-<a href="https://www.freecodecamp.org/certification/Georgi_P_Hristov/responsive-web-design"></a>
+<a href="https://www.freecodecamp.org/certification/Georgi_P_Hristov/responsive-web-design" rel="nofollow">Certificate of Completion</a>
 
 ![Untitled](https://user-images.githubusercontent.com/97052397/216709752-056111ec-3f0e-4b9c-bf1e-7e5cd78f2218.png)
 
