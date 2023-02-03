@@ -19,6 +19,11 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin" rel="nofollow">Learn CSS Transforms by Building a Penguin</a>
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel" rel="nofollow">Learn CSS Animations by Building a Ferris Wheel</a>
 
+<h3>Certificate of Completion</h3>
+<a href="https://www.freecodecamp.org/certification/Georgi_P_Hristov/responsive-web-design"></a>
+
+![Untitled](https://user-images.githubusercontent.com/97052397/216709752-056111ec-3f0e-4b9c-bf1e-7e5cd78f2218.png)
+
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" rel="nofollow">2. JavaScript Algorithms and Data Structures Certification</a>
 
 - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript" rel="nofollow">Basic JavaScript</a>
