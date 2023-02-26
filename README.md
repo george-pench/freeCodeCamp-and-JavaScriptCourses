@@ -1,5 +1,5 @@
-# freeCodeCamp-and-JavaScriptCourses
-A repo consisting of all courses on freeCodeCamp I have completed or participated in so far.
+# freeCodeCamp and JavaScript Courses
+A repo consisting of all courses on freeCodeCamp I have completed or participated in so far as well as some JavaScript simple projects.
 
 <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" rel="nofollow">1. Responsive Web Design Certification</a>
 
