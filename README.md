@@ -21,7 +21,7 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 
 <a href="https://www.freecodecamp.org/certification/Georgi_Hristov/responsive-web-design" rel="nofollow">Certificate of Completion</a>
 
-<img width="1269" alt="ResponsiveWebDesign" src="https://user-images.githubusercontent.com/97052397/227804004-84f89ea5-3b8c-46b8-8981-e0d521b3e4e8.png">
+<img width="1270" alt="ResponsiveWebDesign" src="https://user-images.githubusercontent.com/97052397/227804250-3e76a3ba-3d32-4254-9dd8-fc282a52f419.png">
 
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" rel="nofollow">2. JavaScript Algorithms and Data Structures Certification</a>
 
@@ -37,4 +37,4 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 
 <a href="https://www.freecodecamp.org/certification/Georgi_Hristov/javascript-algorithms-and-data-structures" rel="nofollow">Certificate of Completion</a>
 
-<img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://user-images.githubusercontent.com/97052397/227804030-06f4dbb2-ee3d-4565-882b-d88bbea89dac.png">
+<img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://user-images.githubusercontent.com/97052397/227804268-700aa8b0-9f83-4fe5-818e-0209e1add9df.png">
