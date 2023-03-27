@@ -19,9 +19,9 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin" rel="nofollow">Learn CSS Transforms by Building a Penguin</a>
 - <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel" rel="nofollow">Learn CSS Animations by Building a Ferris Wheel</a>
 
-<a href="https://www.freecodecamp.org/certification/Georgi_P_Hristov/responsive-web-design" rel="nofollow">Certificate of Completion</a>
+<a href="https://www.freecodecamp.org/certification/Georgi_Hristov/responsive-web-design" rel="nofollow">Certificate of Completion</a>
 
-![Untitled](https://user-images.githubusercontent.com/97052397/216709752-056111ec-3f0e-4b9c-bf1e-7e5cd78f2218.png)
+<img width="1270" alt="ResponsiveWebDesign" src="https://user-images.githubusercontent.com/97052397/227804250-3e76a3ba-3d32-4254-9dd8-fc282a52f419.png">
 
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" rel="nofollow">2. JavaScript Algorithms and Data Structures Certification</a>
 
@@ -34,3 +34,7 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming" rel="nofollow">Object-Oriented Programming</a>
 - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming" rel="nofollow">Functional Programming</a>
 - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting" rel="nofollow">Intermediate Algorithm Scripting</a>
+
+<a href="https://www.freecodecamp.org/certification/Georgi_Hristov/javascript-algorithms-and-data-structures" rel="nofollow">Certificate of Completion</a>
+
+<img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://user-images.githubusercontent.com/97052397/227804268-700aa8b0-9f83-4fe5-818e-0209e1add9df.png">
