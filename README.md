@@ -38,3 +38,20 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 <a href="https://www.freecodecamp.org/certification/Georgi_Hristov/javascript-algorithms-and-data-structures" rel="nofollow">Certificate of Completion</a>
 
 <img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://user-images.githubusercontent.com/97052397/227804268-700aa8b0-9f83-4fe5-818e-0209e1add9df.png">
+
+<a href="https://www.freecodecamp.org/learn/relational-database/" rel="nofollow">3. Relational Database</a>
+
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-bash-by-building-a-boilerplate/build-a-boilerplate" rel="nofollow">Learn Bash by Building a Boilerplate</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-relational-databases-by-building-a-mario-database/build-a-mario-database" rel="nofollow">Learn Relational Databases by Building a Mario Database</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database" rel="nofollow">Celestial Bodies Database</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-bash-scripting-by-building-five-programs/build-five-programs" rel="nofollow">Learn Bash Scripting by Building Five Programs</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-sql-by-building-a-student-database-part-1/build-a-student-database-part-1" rel="nofollow">Learn SQL by Building a Student Database: Part 1</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-sql-by-building-a-student-database-part-2/build-a-student-database-part-2" rel="nofollow">Learn SQL by Building a Student Database: Part 2</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database" rel="nofollow">World Cup Database</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-advanced-bash-by-building-a-kitty-ipsum-translator/build-a-kitty-ipsum-translator" rel="nofollow">Learn Advanced Bash by Building a Kitty Ipsum Translator</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-bash-and-sql-by-building-a-bike-rental-shop/build-a-bike-rental-shop" rel="nofollow">Learn Bash and SQL by Building a Bike Rental Shop</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler" rel="nofollow">Salon Appointment Scheduler</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-nano-by-building-a-castle/build-a-castle" rel="nofollow">Learn Nano by Building a Castle</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/learn-git-by-building-an-sql-reference-object/build-an-sql-reference-object" rel="nofollow">Learn Git by Building an SQL Reference Object</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database" rel="nofollow">Periodic Table Database</a>
+- <a href="https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game" rel="nofollow">Number Guessing Game</a>
