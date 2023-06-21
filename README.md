@@ -39,7 +39,9 @@ A repo consisting of all courses on freeCodeCamp I have completed or participate
 
 <img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://user-images.githubusercontent.com/97052397/227804268-700aa8b0-9f83-4fe5-818e-0209e1add9df.png">
 
-<img width="1269" alt="JavaScriptDataStructuresAndAlgorithms" src="https://www.udemy.com/certificate/UC-8bc05eb1-895a-4fef-baee-d92b8eb18db0/">
+<a href="https://www.udemy.com/certificate/UC-8bc05eb1-895a-4fef-baee-d92b8eb18db0/" rel="nofollow">Certificate of Completion</a>
+
+<img width="1269" alt="TheCompleteJavaScriptCourse2023:FromZeroToExpert!" src="https://udemy-certificate.s3.amazonaws.com/image/UC-8bc05eb1-895a-4fef-baee-d92b8eb18db0.jpg">
 
 <a href="https://www.freecodecamp.org/learn/relational-database/" rel="nofollow">3. Relational Database</a>
 
